@@ -8,4 +8,4 @@ Este repositório contém a documentação do meu curso de Ciência da Computaç
 
 - **[Histórico Escolar](https://github.com/GabrielaSchmitt/ComputerScienceDegree/blob/main/Historico_Escolar.pdf)**: Registro completo de todas as disciplinas cursadas durante o programa, incluindo notas e desempenho acadêmico.
 - **[Trabalho de Conclusão de Curso (TCC)](https://github.com/GabrielaSchmitt/ComputerScienceDegree/blob/main/MecanIA.pdf)**: A culminação da minha jornada acadêmica, apresentando minha pesquisa e descobertas.
-- **[Diploma)](https://github.com/GabrielaSchmitt/ComputerScienceDegree/blob/main/diploma.pdf)**: Certificado da conclusão do curso.
+- **[Diploma](https://github.com/GabrielaSchmitt/ComputerScienceDegree/blob/main/diploma.pdf)**: Certificado da conclusão do curso.
